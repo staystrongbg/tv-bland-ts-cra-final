@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render app 1`] = `
+<footer
+  className="footer"
+>
+  <p>
+    TV Bland
+  </p>
+  <p>
+    Copyright TV Bland©2022
+  </p>
+</footer>
+`;

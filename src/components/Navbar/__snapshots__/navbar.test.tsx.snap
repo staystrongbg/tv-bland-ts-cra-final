@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render app 1`] = `
+<nav
+  className="flex-between"
+  style={
+    Object {
+      "backgroundColor": "#101010",
+      "color": "#f1f2f3",
+      "padding": "20px 60px",
+    }
+  }
+>
+  <a
+    href="/"
+    onClick={[Function]}
+  >
+    <h1>
+      TV Bland
+    </h1>
+  </a>
+</nav>
+`;

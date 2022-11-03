@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render app 1`] = `
+<ul
+  className="[object Object] flex-center"
+  style={
+    Object {
+      "gap": "5px",
+      "width": "100%",
+    }
+  }
+>
+  <li
+    className="flex-center"
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#101010",
+        "border": "1px solid #1e1e1e",
+        "borderRadius": "3px",
+        "boxShadow": "1px 1px rgba(0,0,0,0.6)",
+        "color": "#f5f5f5",
+        "cursor": "pointer",
+        "height": "30px",
+        "width": "30px",
+      }
+    }
+  >
+    1
+  </li>
+  <li
+    className="flex-center"
+    onClick={[Function]}
+    style={
+      Object {
+        "background": "#101010",
+        "border": "1px solid #1e1e1e",
+        "borderRadius": "3px",
+        "boxShadow": "1px 1px rgba(0,0,0,0.6)",
+        "color": "#f5f5f5",
+        "cursor": "pointer",
+        "height": "30px",
+        "width": "30px",
+      }
+    }
+  >
+    2
+  </li>
+</ul>
+`;

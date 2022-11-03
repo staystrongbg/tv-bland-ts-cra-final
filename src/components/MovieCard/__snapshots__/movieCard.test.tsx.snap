@@ -1,0 +1,214 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`render app 1`] = `
+<div
+  className="showCard"
+>
+  <a
+    href="/shows/1"
+    onClick={[Function]}
+  >
+    <img
+      alt=""
+      src="https://static.tvmaze.com/uploads/images/medium_portrait/81/202627.jpg"
+    />
+  </a>
+  <div
+    className="desc"
+  >
+    <div
+      className="rate"
+    >
+      <span
+        className="style-module_starRatingWrap__q-lJC"
+        style={
+          Object {
+            "direction": "ltr",
+          }
+        }
+      >
+        <span
+          aria-hidden="true"
+          className="style-module_simpleStarRating__nWUxf react-simple-star-rating"
+          style={
+            Object {
+              "cursor": "",
+            }
+          }
+        >
+          <span
+            className="style-module_emptyIcons__Bg-FZ empty-icons"
+            style={
+              Object {
+                "color": "#cccccc",
+              }
+            }
+          >
+            <svg
+              className="star-svg"
+              fill="currentColor"
+              height={18}
+              stroke="currentColor"
+              strokeWidth={0}
+              viewBox="0 0 24 24"
+              width={18}
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+              />
+            </svg>
+            <svg
+              className="star-svg"
+              fill="currentColor"
+              height={18}
+              stroke="currentColor"
+              strokeWidth={0}
+              viewBox="0 0 24 24"
+              width={18}
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+              />
+            </svg>
+            <svg
+              className="star-svg"
+              fill="currentColor"
+              height={18}
+              stroke="currentColor"
+              strokeWidth={0}
+              viewBox="0 0 24 24"
+              width={18}
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+              />
+            </svg>
+            <svg
+              className="star-svg"
+              fill="currentColor"
+              height={18}
+              stroke="currentColor"
+              strokeWidth={0}
+              viewBox="0 0 24 24"
+              width={18}
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+              />
+            </svg>
+            <svg
+              className="star-svg"
+              fill="currentColor"
+              height={18}
+              stroke="currentColor"
+              strokeWidth={0}
+              viewBox="0 0 24 24"
+              width={18}
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+              />
+            </svg>
+          </span>
+          <span
+            className="style-module_fillIcons__6---A filled-icons"
+            style={
+              Object {
+                "color": "#ffbc0b",
+                "left": 0,
+                "transition": "",
+                "width": "65%",
+              }
+            }
+            title="3.25 out of 5"
+          >
+            <svg
+              className="star-svg"
+              fill="currentColor"
+              height={18}
+              stroke="currentColor"
+              strokeWidth={0}
+              viewBox="0 0 24 24"
+              width={18}
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+              />
+            </svg>
+            <svg
+              className="star-svg"
+              fill="currentColor"
+              height={18}
+              stroke="currentColor"
+              strokeWidth={0}
+              viewBox="0 0 24 24"
+              width={18}
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+              />
+            </svg>
+            <svg
+              className="star-svg"
+              fill="currentColor"
+              height={18}
+              stroke="currentColor"
+              strokeWidth={0}
+              viewBox="0 0 24 24"
+              width={18}
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+              />
+            </svg>
+            <svg
+              className="star-svg"
+              fill="currentColor"
+              height={18}
+              stroke="currentColor"
+              strokeWidth={0}
+              viewBox="0 0 24 24"
+              width={18}
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+              />
+            </svg>
+            <svg
+              className="star-svg"
+              fill="currentColor"
+              height={18}
+              stroke="currentColor"
+              strokeWidth={0}
+              viewBox="0 0 24 24"
+              width={18}
+              xmlns="http://www.w3.org/2000/svg"
+            >
+              <path
+                d="M12 17.27L18.18 21l-1.64-7.03L22 9.24l-7.19-.61L12 2 9.19 8.63 2 9.24l5.46 4.73L5.82 21z"
+              />
+            </svg>
+          </span>
+        </span>
+      </span>
+    </div>
+    <h3>
+      Under the Dome
+    </h3>
+    <p>
+      Runtime: 
+      60
+       min
+    </p>
+  </div>
+</div>
+`;
